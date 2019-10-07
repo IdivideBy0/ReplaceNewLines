@@ -1,0 +1,8 @@
+C:\Temp\ReplaceNewLines\ReplaceNewLines\bin\Debug\ReplaceNewLines.exe
+C:\Temp\ReplaceNewLines\ReplaceNewLines\bin\Debug\ReplaceNewLines.pdb
+C:\Temp\ReplaceNewLines\ReplaceNewLines\obj\x86\Debug\ReplaceNewLines.Form1.resources
+C:\Temp\ReplaceNewLines\ReplaceNewLines\obj\x86\Debug\ReplaceNewLines.Properties.Resources.resources
+C:\Temp\ReplaceNewLines\ReplaceNewLines\obj\x86\Debug\ReplaceNewLines.csproj.GenerateResource.Cache
+C:\Temp\ReplaceNewLines\ReplaceNewLines\obj\x86\Debug\ReplaceNewLines.exe
+C:\Temp\ReplaceNewLines\ReplaceNewLines\obj\x86\Debug\ReplaceNewLines.pdb
+C:\Temp\ReplaceNewLines\ReplaceNewLines\obj\x86\Debug\ReplaceNewLines.csprojResolveAssemblyReference.cache
